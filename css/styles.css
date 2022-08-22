@@ -1,0 +1,15 @@
+h1,
+p {
+text-align: center;
+margin-top: 60px;
+}
+
+.email-link {
+    display: block;
+    text-align: center;
+}
+
+.navigation-links {
+    display: block;
+    text-align: center;
+}
